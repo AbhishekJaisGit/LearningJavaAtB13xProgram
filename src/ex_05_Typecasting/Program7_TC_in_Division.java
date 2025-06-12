@@ -2,6 +2,7 @@ package ex_05_Typecasting;
 
 public class Program7_TC_in_Division {
     public static void main(String[] args) {
+
         int a = 10;
         int b = 3;
 

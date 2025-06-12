@@ -2,7 +2,6 @@ package ex_05_Typecasting;
 
 public class Lab059_Narrowing {
     public static void main(String[] args) {
-
         double D = 9.78;
 
         // Narrowing type cast: double -> int
