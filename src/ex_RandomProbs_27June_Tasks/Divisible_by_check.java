@@ -1,4 +1,4 @@
-package ex_27June_Tasks;
+package ex_RandomProbs_27June_Tasks;
 
 import java.util.Scanner;
 
